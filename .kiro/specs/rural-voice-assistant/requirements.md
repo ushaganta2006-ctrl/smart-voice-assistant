@@ -135,4 +135,3 @@ The Rural Voice Assistant is an AI-powered, voice-first system designed to bridg
 2. WHEN processing voice input, THE Speech_Recognizer SHALL provide results within 3 seconds for simple queries
 3. WHEN multiple users access the system simultaneously, THE Voice_Assistant SHALL maintain individual session integrity
 4. WHEN system errors occur, THE Voice_Assistant SHALL provide helpful error messages in the user's language
-5. WHEN system updates are available, THE Voice_Assistant SHALL update critical components without disrupting active sessions
